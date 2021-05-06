@@ -51,8 +51,7 @@ and give feedback on that.
 Github will show you the changes between any two branches, commits, etc,
 including by time!
 
-To see this view, use a URL like:
-https://github.com/<USER>/<REPO>/compare/master@{1day}
+To find, click on the commit counter right below the `↧ code` button in your repository. 
 
 This will show the difference between the current master branch (implied), and the
 master branch 1 day ago. Make sure to select the appropriate time frame.
